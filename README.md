@@ -12,4 +12,5 @@ I downloaded a 4k video of someone walking through Times Square, and am using a 
 
 Anyways here is a fun example of the results so far. 
 
+![Alt Test](https://github.com/claytonblythe/citywatch/blob/master/figures/elmo.png)
 ![Alt Test](https://github.com/claytonblythe/citywatch/blob/master/figures/elmo_boxed.png)
