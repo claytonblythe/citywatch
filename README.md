@@ -2,7 +2,7 @@
 
 This is a project called citywatch created by Clayton Blythe on 2017/10/27
 
-Email: claytondblythe@google.com
+Email: claytondblythe@gmail.com
 
 ## Citywatch
 
